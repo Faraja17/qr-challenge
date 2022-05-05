@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: "outfit";
+  text-align: center;
+}
+
+img {
+  display: absolute;
+  border-radius: 3%;
+  width: 300px;
+  top: 100px;
+  left: 100px;
+  margin-top: 10px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+p {
+  padding: 10px 30px;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.lt-blue-rect {
+  background-color: hsl(212, 45%, 89%);
+  width: 350px;
+  height: auto;
+  margin: 10px auto 19px auto;
+  padding: 100px 25px;
+}
+
+.white-rect {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 5%;
+  border: 0 auto;
+  display: inline-block;
+  width: 325px;
+  padding: 10px;
+}
