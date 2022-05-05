@@ -22,7 +22,13 @@ This is my first ever HTML/CSS challenge.  Click here to read all of the informa
 
 
 ### Screenshots
-![My Solution for Mobile](https://raw.githubusercontent.com/Faraja17/qr-challenge/main/qr-code-component-main/images/screenshot.png) 
+| <b>Mobile View</b>| 
+|:--:|
+| ![My Solution for Mobile](https://raw.githubusercontent.com/Faraja17/qr-challenge/main/qr-code-component-main/images/screenshot.png) |
+
+| <b>Desktop View</b>| 
+|:--:|
+| ![My Solution for Desktop](https://raw.githubusercontent.com/Faraja17/qr-challenge/main/qr-code-component-main/images/screenshot-desk.png) |
 
 
 ### Links
@@ -33,6 +39,24 @@ This is my first ever HTML/CSS challenge.  Click here to read all of the informa
 ## My process
 
 At first, I felt frustrated when the divs I had created wouldn't move, but then I remembered to set the white one to display: in-line block.  Things quickly began to fall into place after I figured that out.  Wow, I just looked at my repository history.  It says I uploaded the files 2 hours ago.  I didn't realize that I've been working on this for so long.  I would've guessed 1 hour.  And I'm only part of the way done at this point.  I have completed the mobile version.  I still need to do the desktop version.  I'll save that for another time, upload another screenshot, and  write an update here once it is done.
+
+The next day--Okay, that was quick.  I used the code below to make it responsive for desktop view.  
+
+```css
+@media screen and (min-width: 900px) {
+  .lt-blue-rect {
+    background-color: hsl(212, 45%, 89%);
+    width: 100%;
+    height: auto;
+    padding: 100px 25px;
+    margin: 0;
+  }
+}
+ ```
+
+This function can be tested at the live site on codepen by changing the size of your browser. Just hover over a corner of your browser window.  When you see a diagonal double arrow, click and drag toward the middle of your screen until the browser window is as small as you can get it.  That's the mobile view.  The view changes back to desktop view at about 900px.
+
+This challenge was very good practice for me!
 
 ### Built with
 
