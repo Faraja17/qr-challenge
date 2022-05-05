@@ -39,30 +39,22 @@ At first, I felt frustrated when the divs I had created wouldn't move, but then 
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Interestingly, I learned something not directly related to the challenge--I learned more about how to use Git Hub!  Editing this Read Me file did not come easy for me.  I didn't understand how to post the link to the screenshots,  how to add code snippets, or add hyperlinks at first, but reading through the Frontend Mentor directions and some research at the [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) helped me to learn markdown syntax.  Here is another great resource recommended by Frontend Mentor: [The Markdown Guide](https://www.markdownguide.org/)  I am learning the importance and power of good research while coding. I did also look up some other things, such as border-radius:
+Interestingly, I learned many things not directly related to the challenge--I learned more about how to use Git Hub!  Editing this Read Me file did not come easy for me.  I didn't understand how to post the link to the screenshots, how to add code snippets, or add hyperlinks at first, but reading through the Frontend Mentor directions and some research at the [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) helped me to learn markdown syntax.  Here is another great resource recommended by Frontend Mentor: [The Markdown Guide](https://www.markdownguide.org/)  I am learning the importance and power of good research while coding. I did also look up some other things, such as border-radius:
 
 ```css
 .proud-of-this-css {
   border-radius: 5%;
  }
  ```
+ 
+ Another example of learning more about GitHub--I panicked for a bit after posting my screenshot.  The bookmark to that section of this Read Me doc would not work anymore!  At first I thought it was the example markdown for the image, so I put that back in.  Still didn't work.  Then I figured it out.  I had renamed the section "Screenshots" since I plan to post another one when I'm done with the desktop version.  So all I had to do was update the spelling in the TOC. Whew!
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+This challenge was fun and rewarding, but I think I know enough of the basics of HTML and CSS now.  So I don't want to spend much more time doing these types of challenges.  I want to move on and learn Python and more about JavaScript and then work on challenges involving those. 
 
 ### Useful resources
 
@@ -73,14 +65,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Faraja Thompson](https://faraja17.github.io/my-website/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.com/DeForestt).  His steadfast support and encouragement keeps me motivated!
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
