@@ -22,7 +22,7 @@ This is my first ever HTML/CSS challenge.  Click here to read all of the informa
 
 
 ### Screenshots
-![My Solution for Mobile](/../main/assets/images/screenshot.png) 
+![My Solution for Mobile](https://raw.githubusercontent.com/Faraja17/qr-challenge/main/qr-code-component-main/images/screenshot.png) 
 
 
 ### Links
