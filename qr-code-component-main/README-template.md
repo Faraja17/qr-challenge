@@ -24,7 +24,7 @@ This is my first ever HTML/CSS challenge.
 
 ### Screenshots
 
-![My Solution for Mobile](qr-code-component-main/images/screenshot.png) 
+![My Solution for Mobile](./images/screenshot.png) 
 
 
 ### Links
