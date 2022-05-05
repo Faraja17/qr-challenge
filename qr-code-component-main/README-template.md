@@ -23,7 +23,7 @@ This is my first ever HTML/CSS challenge.
 
 
 ### Screenshots
-
+![](./screenshot.jpg)
 ![My Solution for Mobile](./images/screenshot.png) 
 
 
