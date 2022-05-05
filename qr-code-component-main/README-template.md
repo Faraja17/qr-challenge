@@ -56,7 +56,7 @@ This challenge was fun and rewarding, but I think I know enough of the basics of
 
 ### Useful resources
 
-- [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) - This helped me to write the markdown for adding an image.
+- [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) - This helped me to write the markdown for adding my screenshots above.
 - [The Markdown Guide](https://www.markdownguide.org/) - This resource is recommended by Frontend Mentor for learning to write markdown.
 
 ## Author
