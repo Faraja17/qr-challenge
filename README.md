@@ -22,7 +22,7 @@ This is my first ever HTML/CSS challenge.  Click here to read all of the informa
 
 
 ### Screenshots
-![My Solution for Mobile](./images/screenshot.png) 
+![My Solution for Mobile](/assets/images/electrocat.png) 
 
 
 ### Links
