@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,7 +23,6 @@ This is my first ever HTML/CSS challenge.
 
 
 ### Screenshots
-![](./screenshot.jpg)
 ![My Solution for Mobile](./images/screenshot.png) 
 
 
