@@ -1,3 +1,79 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+- [The Directions](#frontend-mentor---qr-code-component) 
+
+## Overview
+
+This is my first ever HTML/CSS challenge.  Click here to read all of the information provided by Frontend Mentor concerning this project: [The Directions](#frontend-mentor---qr-code-component)
+
+
+### Screenshots
+![My Solution for Mobile](./images/screenshot.png) 
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+At first, I felt frustrated when the divs I had created wouldn't move, but then I remembered to set the white one to display: in-line block.  Things quickly began to fall into place after I figured that out.  Wow, I just looked at my repository history.  It says I uploaded the files 2 hours ago.  I didn't realize that I've been working on this for so long.  I would've guessed 1 hour.  And I'm only part of the way done at this point.  I have completed the mobile version.  I still need to do the desktop version.  I'll save that for another time, upload another screenshot, and  write an update here once it is done.
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+
+### What I learned
+
+Interestingly, I learned many things not directly related to the challenge--I learned more about how to use Git Hub!  Editing this Read Me file did not come easy for me.  I didn't understand how to post the link to the screenshots, how to add code snippets, or add hyperlinks at first, but reading through the Frontend Mentor directions and some research at the [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) helped me to learn markdown syntax.  Here is another great resource recommended by Frontend Mentor: [The Markdown Guide](https://www.markdownguide.org/)  I am learning the importance and power of good research while coding. I did also look up some other things, such as border-radius:
+
+```css
+.proud-of-this-css {
+  border-radius: 5%;
+ }
+ ```
+ 
+ Another example of learning more about GitHub--I panicked for a bit after posting my screenshot.  The bookmark to that section of this Read Me doc would not work anymore!  At first I thought it was the example markdown for the image, so I put that back in.  Still didn't work.  Then I figured it out.  I had renamed the section "Screenshots" since I plan to post another one when I'm done with the desktop version.  So all I had to do was update the spelling in the TOC. Whew!
+
+### Continued development
+
+This challenge was fun and rewarding, but I think I know enough of the basics of HTML and CSS now.  So I don't want to spend much more time doing these types of challenges.  I want to move on and learn Python and more about JavaScript and then work on challenges involving those. 
+
+### Useful resources
+
+- [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) - This helped me to write the markdown for adding my screenshots above.
+- [The Markdown Guide](https://www.markdownguide.org/) - This resource is recommended by Frontend Mentor for learning to write markdown.
+
+## Author
+
+- Website - [Faraja Thompson](https://faraja17.github.io/my-website/)
+- Frontend Mentor - [@faraja17](https://www.frontendmentor.io/profile/Faraja17)
+- LinkedIn - [Faraja Thompson, M.Ed.](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
+
+## Acknowledgments
+
+I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.com/DeForestt).  His steadfast support and encouragement keeps me motivated!
+
+
+
+
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
