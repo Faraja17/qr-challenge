@@ -68,7 +68,7 @@ This challenge was fun and rewarding, but I think I know enough of the basics of
 
 ## Acknowledgments
 
-I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.com/DeForestt).  His steadfast support and encouragement keeps me motivated!  Thanks for forcing me to use the command line, Son <3 <3 <3.
+I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.com/DeForestt).  His steadfast support and encouragement keep me motivated!  Thanks for forcing me to use the command-line, Son <3 <3 <3.
 
 
 
