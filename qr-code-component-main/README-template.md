@@ -66,8 +66,8 @@ This challenge was fun and rewarding, but I think I know enough of the basics of
 ## Author
 
 - Website - [Faraja Thompson](https://faraja17.github.io/my-website/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@faraja17](https://www.frontendmentor.io/profile/Faraja17)
+- LinkedIn - [Faraja Thompson, M.Ed.](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
 
 ## Acknowledgments
 
