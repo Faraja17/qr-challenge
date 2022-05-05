@@ -14,20 +14,14 @@ img {
 h1 {
   font-weight: 700;
   font-size: 25px;
+  color: hsl(218, 44%, 22%);
 }
 
 p {
   padding: 10px 30px;
   font-size: 15px;
   font-weight: 400;
-}
-
-.lt-blue-rect {
-  background-color: hsl(212, 45%, 89%);
-  width: 350px;
-  height: auto;
-  margin: 10px auto 19px auto;
-  padding: 100px 25px;
+  color: hsl(220, 15%, 55%);
 }
 
 @media screen and (min-width: 900px) {
