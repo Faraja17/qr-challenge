@@ -27,8 +27,8 @@ This is my first ever HTML/CSS challenge.  Click here to read all of the informa
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [On Code Pen](https://codepen.io/faraja17/pen/jOZPXvr)
+- Live Site URL: [Full View](https://codepen.io/faraja17/full/jOZPXvr)
 
 ## My process
 
