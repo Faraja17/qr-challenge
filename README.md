@@ -54,7 +54,7 @@ The next day--Okay, that was quick.  I used the code below to make it responsive
 }
  ```
 
-This function can be tested at the live site on codepen by changing the size of your browser. Just hover over a corner of your browser window.  When you see a diagonal double arrow, click and drag toward the middle of your screen until the browser window is as small as you can get it.  That's the mobile view.  The view changes back to desktop view at about 900px.
+This function can be tested at the live site on codepen by changing the size of your browser. JJust hover over the right or left edge of your browser window. When you see a double arrow, click and drag toward the middle of your screen until the browser window is as small as you can get it.  That's the mobile view.  The view changes back to desktop view at about 900px.
 
 This challenge was very good practice for me!
 
