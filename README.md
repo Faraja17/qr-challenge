@@ -76,7 +76,7 @@ I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.co
 
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the QR code component coding challenge](https://raw.githubusercontent.com/Faraja17/qr-challenge/main/qr-code-component-main/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
