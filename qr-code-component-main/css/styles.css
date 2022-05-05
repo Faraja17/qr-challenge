@@ -5,10 +5,8 @@ body {
 }
 
 img {
-  display: absolute;
   border-radius: 3%;
   width: 300px;
-  top: 100px;
   left: 100px;
   margin-top: 10px;
 }
