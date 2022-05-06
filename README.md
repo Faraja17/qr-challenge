@@ -38,7 +38,7 @@ This is my first ever HTML/CSS challenge.  Click here to read all of the informa
 
 ## My process
 
-At first, I felt frustrated when the divs I had created wouldn't move, but then I remembered to set the white one to display: in-line block.  Things quickly began to fall into place after I figured that out.  Wow, I just looked at my repository history.  It says I uploaded the files 2 hours ago.  I didn't realize that I've been working on this for so long.  I would've guessed 1 hour.  And I'm only part of the way done at this point.  I have completed the mobile version.  I still need to do the desktop version.  I'll save that for another time, upload another screenshot, and  write an update here once it is done.
+At first, I felt frustrated when the divs I had created wouldn't move, but then I remembered to set the white one to display: inline-block.  Things quickly began to fall into place after I figured that out.  Wow, I just looked at my repository history.  It says I uploaded the files 2 hours ago.  I didn't realize that I've been working on this for so long.  I would've guessed 1 hour.  And I'm only part of the way done at this point.  I have completed the mobile version.  I still need to do the desktop version.  I'll save that for another time, upload another screenshot, and  write an update here once it is done.
 
 The next day--Okay, that was quick.  I used the code below to make it responsive for desktop view.  
 
