@@ -67,7 +67,7 @@ This challenge was very good practice for me!
 
 ### What I learned
 
-Interestingly, I learned many things not directly related to the challenge--I learned more about how to use GitHub!  Editing this Read Me file did not come easy for me.  I didn't understand how to post the link to the screenshots, how to add code snippets, or add hyperlinks at first, but reading through the Frontend Mentor directions and some research at the [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) helped me to learn markdown syntax.  Here is another great resource recommended by Frontend Mentor: [The Markdown Guide](https://www.markdownguide.org/)  I am learning the importance and power of good research while coding. I did also look up some other things, such as border-radius:
+Interestingly, I learned many things not directly related to the challenge--I learned more about how to use GitHub!  Editing this Read Me file did not come easy for me.  I didn't understand how to post the screenshots, how to add code snippets, or add hyperlinks at first, but reading through the Frontend Mentor directions and some research at the [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) helped me to learn markdown syntax.  Here is another great resource recommended by Frontend Mentor: [The Markdown Guide](https://www.markdownguide.org/)  I am learning the importance and power of good research while coding. I did also look up some other things, such as border-radius:
 
 ```css
 .proud-of-this-css {
