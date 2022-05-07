@@ -63,7 +63,7 @@ This challenge was very good practice for me!
 ### Built with
 
 - Semantic HTML5 markup
-- CSS properties
+- CSS 3 properties
 
 ### What I learned
 
