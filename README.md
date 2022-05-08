@@ -88,16 +88,17 @@ This challenge was fun and rewarding, but I think I know enough of the basics of
 
 ## Author
 
-- Website - [Faraja Thompson](https://faraja17.github.io/my-website/)
-- Frontend Mentor - [@faraja17](https://www.frontendmentor.io/profile/Faraja17)
-- LinkedIn - [Faraja Thompson, M.Ed.](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
+Faraja Thompson
+- [My Personal Website](https://faraja17.github.io/my-website/)
+- [My Blog: Teacher to Techie](https://faraja17.github.io/)
+- [Faraja Thompson, M.Ed.on LinkedIn](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
 
 ## Acknowledgments
 
 I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.com/DeForestt).  His steadfast support and encouragement keep me motivated!  Thanks for forcing me to use the command-line, Son <3 <3 <3.
 
 
-
+********
 
 
 # Frontend Mentor - QR code component
